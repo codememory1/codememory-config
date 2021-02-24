@@ -1,0 +1,21 @@
+{
+  "name": "codememory-config",
+  "version": "1.0.0",
+  "description": "Component for working with the codememory framework configuration",
+  "main": "lib/index.js",
+  "repository": "gihub:codememory1/codememory-config",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config",
+    "codememory",
+    "framework"
+  ],
+  "author": "Codememory",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.0",
+    "yaml": "^1.10.0"
+  }
+}
